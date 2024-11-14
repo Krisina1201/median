@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\sortedArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53DB08F5-B20E-442B-B144-054CAE511963}|sortedArray\\sortedArray.csproj|c:\\users\\admin\\source\\repos\\sortedarray\\sortedarray\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53DB08F5-B20E-442B-B144-054CAE511963}|sortedArray\\sortedArray.csproj|solutionrelative:sortedarray\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53DB08F5-B20E-442B-B144-054CAE511963}|sortedArray\\sortedArray.csproj|c:\\users\\admin\\source\\repos\\sortedarray\\sortedarray\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{53DB08F5-B20E-442B-B144-054CAE511963}|sortedArray\\sortedArray.csproj|solutionrelative:sortedarray\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53DB08F5-B20E-442B-B144-054CAE511963}|sortedArray\\sortedArray.csproj|C:\\Users\\Admin\\source\\repos\\sortedArray\\sortedarray\\bumblsorted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53DB08F5-B20E-442B-B144-054CAE511963}|sortedArray\\sortedArray.csproj|solutionrelative:sortedarray\\bumblsorted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53DB08F5-B20E-442B-B144-054CAE511963}|sortedArray\\sortedArray.csproj|C:\\Users\\Admin\\source\\repos\\sortedArray\\sortedarray\\makakasorted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53DB08F5-B20E-442B-B144-054CAE511963}|sortedArray\\sortedArray.csproj|solutionrelative:sortedarray\\makakasorted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53DB08F5-B20E-442B-B144-054CAE511963}|sortedArray\\sortedArray.csproj|C:\\Users\\Admin\\source\\repos\\sortedArray\\sortedarray\\sortingrecursion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53DB08F5-B20E-442B-B144-054CAE511963}|sortedArray\\sortedArray.csproj|solutionrelative:sortedarray\\sortingrecursion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BumblSorted.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\sortedArray\\sortedArray\\BumblSorted.cs",
+              "RelativeDocumentMoniker": "sortedArray\\BumblSorted.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\sortedArray\\sortedArray\\BumblSorted.cs",
+              "RelativeToolTip": "sortedArray\\BumblSorted.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:03:34.589Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\sortedArray\\sortedArray\\App.config",
+              "RelativeDocumentMoniker": "sortedArray\\App.config",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\sortedArray\\sortedArray\\App.config",
+              "RelativeToolTip": "sortedArray\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-14T14:09:40.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\sortedArray\\sortedArray\\Main.cs",
+              "RelativeDocumentMoniker": "sortedArray\\Main.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\sortedArray\\sortedArray\\Main.cs",
+              "RelativeToolTip": "sortedArray\\Main.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:11:03.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SortingRecursion.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\sortedArray\\sortedArray\\SortingRecursion.cs",
+              "RelativeDocumentMoniker": "sortedArray\\SortingRecursion.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\sortedArray\\sortedArray\\SortingRecursion.cs",
+              "RelativeToolTip": "sortedArray\\SortingRecursion.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAUwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:28:57.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MakakaSorted.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\sortedArray\\sortedArray\\MakakaSorted.cs",
+              "RelativeDocumentMoniker": "sortedArray\\MakakaSorted.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\sortedArray\\sortedArray\\MakakaSorted.cs",
+              "RelativeToolTip": "sortedArray\\MakakaSorted.cs",
+              "ViewState": "AgIAAAMAAACgqiq2H+0wwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:00:47.054Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
